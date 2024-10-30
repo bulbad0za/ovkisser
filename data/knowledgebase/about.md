@@ -1,10 +1,17 @@
-**OpenVK is a universal colleague search tool based on the VKontakte structure.**
+OpenVK-KB-Heading: Welcome :3
 
-We want friends, classmates, neighbors and colleagues to always be in touch.
+<h2>Welcome to OVKisser!</h2>
 
-With this site you can:
+We want to bring the furry (and not just furry) community together through this site, and give you the opportunity to:
 
-* Find people with whom you have ever studied, worked or played.
-* Learn more about the people around you and make new friends.
-* Always stay in touch with those who are dear to you.
-* Promote your creativity and opinion.
+* Find old and new friends  
+* Promote your own and others' work  
+* To share your own and others' opinions and statements  
+* To socialize and have a good time  
+* And much, much more...
+
+Have a nice life :3
+
+<hr>
+
+<b>⚠️ The site has undergone a complete wipe (rebirth of the project), details <a href=“https://t.me/ovkisser/121”>here</a>. 🥸</b>
